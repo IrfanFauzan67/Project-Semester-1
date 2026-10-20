@@ -1,4 +1,4 @@
-# Project Semester 1
+# Project UTS Semester 1
 
 ### Nama
 Irfan Fauzan
@@ -11,7 +11,7 @@ Harapan saya di semester 1 ini adalah bisa memahami dasar-dasar pemrograman dan 
 
 ### Langkah-langkah
 - Membuat akun GitHub
-- Membuat repository baru dengan nama Project Semester 1
+- Membuat repository baru dengan nama Project UTS Semester 1
 - Menambahkan file README.md
 - Mengisi README.md dengan data diri dan deskripsi project
 - Melakukan commit dan push perubahan
