@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=200&section=header&text=Irfan%20Fauzan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%7C%20Semester%201&descAlignY=55&descAlign=50" />
-
-  <img src="./robin_hsr.gif" width="100%" alt="Animated Banner" />
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+%F0%9F%91%8B;Informatics+Student+Semester+1;Learning+C%2B%2B+%26+GitHub;Learn+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing" />
 
