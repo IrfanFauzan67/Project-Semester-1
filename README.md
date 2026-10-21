@@ -57,14 +57,6 @@ Saya juga berharap project ini menjadi langkah awal untuk meningkatkan kemampuan
 
 ---
 
-### 🎮 Name Game - Pacman
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph/dark/pacman.svg" alt="Pacman Graph" />
-</p>
-
-> Kotak hijau di bawah dimakan Pacman! Animasi ini auto-update setiap hari.
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -73,5 +65,5 @@ Saya juga berharap project ini menjadi langkah awal untuk meningkatkan kemampuan
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=120&section=footer&text=Langkah%20kecil%20hari%20ini,%20awal%20perjalanan%20besar!&fontSize=18&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=120&section=footer&text=Langkah%20kecil%20hari%20ini,%20adlah%20awal%20perjalanan%20besar!&fontSize=18&fontColor=fff&animation=fadeIn" />
 </div>
