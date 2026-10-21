@@ -2,7 +2,13 @@
 
 <div align="center">
 
-# Hello, World! 👋
+<img src="banner.gif" width="100%" alt="Welcome to my GitHub" />
+
+# 👋 Hello, World!
+
+</div>
+
+<div align="center">
 
 ### Irfan Fauzan | Informatika Student
 
