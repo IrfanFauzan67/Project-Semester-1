@@ -3,6 +3,8 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+%F0%9F%91%8B;Informatics+Student+Semester+1;Learning+C%2B%2B+%26+GitHub;Learn+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing" />
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <p>
     <img src="https://img.shields.io/badge/Project-UTS_Semester_1-0E70FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/NIM-552012610006-58A6FF?style=for-the-badge" />
