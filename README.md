@@ -77,5 +77,5 @@ Saya juga berharap project ini menjadi langkah awal untuk meningkatkan kemampuan
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=120&section=footer&text=Langkah%20kecil%20hari%20ini,%20adlah%20awal%20perjalanan%20besar!&fontSize=18&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=120&section=footer&text=Langkah%20kecil%20hari%20ini,%20adalah%20awal%20perjalanan%20besar!&fontSize=18&fontColor=fff&animation=fadeIn" />
 </div>
