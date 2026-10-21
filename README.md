@@ -1,10 +1,13 @@
 # 👋 Halo, Selamat Datang di Project UTS Semester 1!
 
 <div align="center">
+  <img src="./irfan_github_animated_banner.gif" width="100%" alt="Animated GitHub Banner" />
 
-<img src="banner.gif" width="100%" alt="Welcome to my GitHub" />
+  # 👋 Hello, World!
+  ### Irfan Fauzan | Informatics Student
 
-# 👋 Hello, World!
+  *Learn · Build · Improve · Repeat*
+</div>
 
 </div>
 
