@@ -1,28 +1,12 @@
-# 👋 Halo, Selamat Datang di Project UTS Semester 1!
-
 <div align="center">
-  <img src="./robin_hsr.gif" width="100%" alt="Animated GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=200&section=header&text=Irfan%20Fauzan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%7C%20Semester%201&descAlignY=55&descAlign=50" />
 
-  # 👋 Hello, World!
-  ### Irfan Fauzan | Informatics Student
+  <img src="./robin_hsr.gif" width="100%" alt="Animated Banner" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+%F0%9F%91%8B;Informatics+Student+Semester+1;Learning+C%2B%2B+%26+GitHub;Learn+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing" />
 
-  *Learn · Build · Improve · Repeat*
+  <p><i>Learn · Build · Improve · Repeat</i></p>
 </div>
-
-</div>
-
-<div align="center">
-
-### Irfan Fauzan | Informatika Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub!;Learning+to+Code+%F0%9F%92%BB;Aspiring+Software+Engineer;Building+My+First+Projects" alt="Typing SVG" />
-
-<p>
-  <i>Learn · Build · Improve · Repeat</i>
-</p>
-
-</div>
-
 
 ---
 
@@ -65,9 +49,31 @@ Saya juga berharap project ini menjadi langkah awal untuk meningkatkan kemampuan
 ---
 
 <p align="center">
-  🚀 <b>Langkah kecil hari ini, awal perjalanan besar di dunia teknologi!</b>
+  🚀 <b>Langkah kecil hari ini, adalah awal perjalanan besar di dunia teknologi!</b>
 </p>
 
 <p align="center">
   Terima kasih telah mengunjungi repository saya! 🙌
 </p>
+
+
+---
+
+### 🎮 Name Game - Pacman
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph/dark/pacman.svg" alt="Pacman Graph" />
+</p>
+
+> Kotak hijau di bawah dimakan Pacman! Animasi ini auto-update setiap hari.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IrfanFauzan67&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=IrfanFauzan67&theme=tokyonight" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E70FF,100:58A6FF&height=120&section=footer&text=Langkah%20kecil%20hari%20ini,%20awal%20perjalanan%20besar!&fontSize=18&fontColor=fff&animation=fadeIn" />
+</div>
