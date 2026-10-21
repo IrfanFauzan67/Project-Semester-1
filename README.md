@@ -59,6 +59,12 @@ Saya juga berharap project ini menjadi langkah awal untuk meningkatkan kemampuan
 
 ---
 
+<div align="center">
+  <img src="./robin_hsr.gif" width="300" alt="my robin" />
+  <br/>
+  <i>my coding partner ✨</i>
+</div>
+
 <p align="center">
   🚀 <b>Langkah kecil hari ini, adalah awal perjalanan besar di dunia teknologi!</b>
 </p>
