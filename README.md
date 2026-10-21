@@ -1,11 +1,19 @@
 # 👋 Halo, Selamat Datang di Project UTS Semester 1!
 
-<h1 align="center">✨ HALO, DUNIA! ✨</h1>
-<h3 align="center">Selamat datang di repository Project UTS Semester 1</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Halo%2C+semuanya!+%F0%9F%91%8B;Selamat+datang+di+GitHub+saya!;Mari+belajar+coding+bersama!;Future+Software+Engineer+%F0%9F%92%BB" alt="Teks animasi salam" />
+# Hello, World! 👋
+
+### Irfan Fauzan | Informatika Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub!;Learning+to+Code+%F0%9F%92%BB;Aspiring+Software+Engineer;Building+My+First+Projects" alt="Typing SVG" />
+
+<p>
+  <i>Learn · Build · Improve · Repeat</i>
 </p>
+
+</div>
+
 
 ---
 
