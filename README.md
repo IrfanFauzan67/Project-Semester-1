@@ -1,7 +1,7 @@
 # 👋 Halo, Selamat Datang di Project UTS Semester 1!
 
 <div align="center">
-  <img src="./peace-honaki-star-rail.gif" width="100%" alt="Animated GitHub Banner" />
+  <img src="./robin_hsr.gif" width="100%" alt="Animated GitHub Banner" />
 
   # 👋 Hello, World!
   ### Irfan Fauzan | Informatics Student
